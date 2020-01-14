@@ -13,4 +13,4 @@ Every now and then some weather sage predicts extremely cold winters, and anothe
 
 
 
-
+Copyright 2020
